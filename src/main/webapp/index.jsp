@@ -33,15 +33,21 @@
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
       <span class="badge badge-primary">Your name</span>
+      <p>Nguyen Manh Quoc Viet</p>
       <br>
       <span class="badge badge-secondary">Your student ID (sID)</span>
+      <p>s3759306</p>
       <br>
       <span class="badge badge-success">Your Major (and Minor if possible)</span>
+      <p>Bachelor of IT</p>
       <br>
       <span class="badge badge-danger">Your Hobby</span>
+      <p>Building Lego Models</p>
       <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language</span>
-      <!-- You only need to change these information, ends here! -->
+      <span class="badge badge-warning">Your Favourite Programming Language</span>
+      <p>HTML</p>
+      <p>CSS</p>     
+ <!-- You only need to change these information, ends here! -->
       
 
     </div>
